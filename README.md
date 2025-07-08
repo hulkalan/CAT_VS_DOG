@@ -1,14 +1,6 @@
 # 🐶 Cat vs Dog Classifier 🐱  
 A deep learning web app that classifies whether an uploaded image is of a **Cat or a Dog** using **Transfer Learning** with **MobileNetV2** and a user-friendly **Streamlit interface**.
 
----
-
-## 📸 Demo
-
-![Demo Screenshot](https://raw.githubusercontent.com/your-username/cat-vs-dog-classifier/main/demo.gif)
-
-Try the live version on **Hugging Face Spaces**:  
-👉 [Launch App](https://huggingface.co/spaces/your-username/cat-vs-dog-classifier)
 
 ---
 
